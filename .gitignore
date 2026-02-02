@@ -1,0 +1,15 @@
+﻿# python
+.venv/
+__pycache__/
+*.py[cod]
+
+# secrets / sessions
+.env
+*.session
+
+# data (raw and processed)
+data/raw/
+data/processed/
+
+# notebooks
+.ipynb_checkpoints/
