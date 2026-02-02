@@ -7,7 +7,7 @@ __pycache__/
 .env
 *.session
 
-# data (raw and processed)
+# data
 data/raw/
 data/processed/
 
